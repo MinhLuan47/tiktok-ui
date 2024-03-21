@@ -30,6 +30,7 @@ function App() {
                     })}
                 </Routes>
             </div>
+            <h1>HELLO WORLD</h1>
         </Router>
     );
 }
